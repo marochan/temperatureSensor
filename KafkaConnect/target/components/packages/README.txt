@@ -1,0 +1,1 @@
+This directory should cotnain a mongo-sink-connector zip
